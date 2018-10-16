@@ -1,0 +1,12 @@
+body{
+  background: url(../img/galaxy.jpg);
+  font-family: 'Oxygen', sans-serif;
+}
+.zImg img{
+  height: 300px;
+  width:40%;
+}
+.bottom input{
+  height: 30px;
+  width:20%;
+}
