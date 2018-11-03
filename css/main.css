@@ -3,10 +3,9 @@ body{
   font-family: 'Oxygen', sans-serif;
 }
 .zImg img{
-  height: 300px;
-  width:40%;
+  max-height: 280px;
 }
 .bottom input{
   height: 30px;
-  width:20%;
+  width:100%;
 }
